@@ -1,4 +1,6 @@
-# LoginPage
+# Automated Accident Detection Emergency Response System
+
+This is an ongoing project at TATA Technologies made with AngularJS for frontend and Spring Boot for backend. The purpose of this product is to detect any accidents that maybe faced by a registered consumer and alert the disered emergency contacts about the same.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
 
